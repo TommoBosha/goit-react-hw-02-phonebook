@@ -18,7 +18,7 @@ export const Button = styled.button`
   line-height: 1.25;
   background-color: skyblue;
   border:none;
-  border-radius: 10px;
+  border-radius: 11px;
   cursor: pointer;
   &:hover {
     box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
